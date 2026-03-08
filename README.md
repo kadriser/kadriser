@@ -67,7 +67,7 @@ I work across the full stack — from backend systems to smart contract developm
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly_via_Rust-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/Rust_+_WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 
 **Frontend**
 
