@@ -14,6 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Ricaldez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadriser/)
 [![NASA Space Apps](https://img.shields.io/badge/NASA_Space_Apps-Galactic_Problem_Solver-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)](https://www.spaceappschallenge.org)
+[![InnovaHack](https://img.shields.io/badge/InnovaHack_2025-Winner_Business_Challenge-7B2D8B?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/kadriser/)
 [![Avalanche](https://img.shields.io/badge/Avalanche-Certified-E84142?style=for-the-badge&logo=avalanche&logoColor=white)](https://www.avax.network)
 
 </div>
