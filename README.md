@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝
 ```
 
-### Co-Founder & Full Stack Developer
+### Full Stack Developer
 #### Blockchain · Web3 · Smart Contracts · Backend Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Ricaldez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadriser/)
@@ -20,23 +20,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a **Co-Founder and Full Stack Developer** building at the intersection of blockchain infrastructure and real-world business impact.
-
-Our startup currently serves **400+ active startups** — and we're just getting started.
+Full Stack Developer building at the intersection of blockchain infrastructure and real-world business impact.
 
 I operate across the full stack: from backend systems to smart contract development across multiple blockchain ecosystems. My team calls me in for any technical challenge because I adapt fast and execute faster.
 
-- 🔗 **Smart Contracts:** Solidity · Clarity · Rust (Soroban)
-- ⛓️ **Blockchains:** Ethereum/EVM · Avalanche · Stacks (Bitcoin L2) · Stellar
-- 🏗️ **Backend:** C# · .NET 9 · Docker · REST APIs
-- 🌐 **Web3:** DeFi · NFTs · dApps · Tokenization
-- 🎯 **Currently:** Building in stealth mode — launching soon
+- **Smart Contracts:** Solidity · Clarity · Rust (Soroban)
+- **Blockchains:** Ethereum/EVM · Avalanche · Stacks (Bitcoin L2) · Stellar
+- **Backend:** C# · .NET 9 · Docker · REST APIs
+- **Currently:** Building in stealth mode — launching soon
 
 ---
 
-## ⛓️ Blockchain Expertise
+## Blockchain Expertise
 
 <div align="center">
 
@@ -51,7 +48,7 @@ I operate across the full stack: from backend systems to smart contract developm
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -79,22 +76,22 @@ I operate across the full stack: from backend systems to smart contract developm
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
 | Award | Organization | Year |
 |-------|-------------|------|
-| 🥇 Winner — Business Challenge | InnovaHack Santa Cruz | 2025 |
-| 🚀 Galactic Problem Solver | NASA Space Apps Challenge | 2025 |
-| 📜 Web3 & Smart Contracts on Avalanche | UAGRM | 2025 |
-| 📜 Robotics II | Escuela Militar de Ingeniería | 2024 |
+| Winner — Business Challenge | InnovaHack Santa Cruz | 2025 |
+| Galactic Problem Solver | NASA Space Apps Challenge | 2025 |
+| Web3 & Smart Contracts on Avalanche | UAGRM | 2025 |
+| Robotics II | Escuela Militar de Ingeniería | 2024 |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -108,14 +105,8 @@ I operate across the full stack: from backend systems to smart contract developm
 
 ---
 
-## 🌎 Let's Connect
+## Connect
 
-<div align="center">
+Open to conversations with investors, founders, and builders.
 
-**Open to conversations with investors, founders, and builders.**
-
-[![LinkedIn](https://img.shields.io/badge/Let's_talk_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadriser/)
-
-*Building the decentralized future — one smart contract at a time.*
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadriser/)
